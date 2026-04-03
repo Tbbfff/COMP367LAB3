@@ -1,0 +1,6 @@
+## .NET / ASP.NET Core
+obj/
+bin/
+*.user
+*.suo
+.vs/
